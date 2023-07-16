@@ -1,2 +1,2 @@
-# SQLProj
-SQL database project
+# SQL Database Project
+The project implements a database of an educational institution offering courses in multiple areas of the digital world. The scope of this database is to keep data related to these different courses such as prices, capacity, instructors etc.  Information of all the members in the institution is also recorded such as Employees and Students as well as to which category employees belong. 
